@@ -130,5 +130,5 @@ IEEE ISACC 2025
 ---
 
 <p align="center">
-⭐ Research-driven engineering for scalable and trustworthy computing systems
+ ⭐ Thanks for visiting — feel free to explore my repositories.
 </p>
