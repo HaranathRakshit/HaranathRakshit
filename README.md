@@ -18,26 +18,26 @@ Edge Intelligence · Secure Edge AI · Containerized Infrastructure
 
 ---
 
-<h2>Research Vision</h2>
+<h2>🔬 Research Vision</h2>
 
 <p>
-I focus on building <b>efficient, scalable, and secure AI systems</b> operating at the edge–cloud continuum.  
-My research explores containerized infrastructures, distributed system resilience, and secure AI deployment frameworks for real-world environments.
+I develop efficient, trustworthy, production-ready AI systems at the intersection of edge intelligence,
+containerized infrastructure, and secure distributed systems. My work focuses on building scalable
+systems that enable reliable AI deployment across edge–cloud environments.
 </p>
 
-<b>Research Interests</b>
+<b>Focus Areas</b>
 
 <ul>
-<li>Edge Intelligence</li>
-<li>Cloud–Edge Orchestration</li>
-<li>Containerized Infrastructure (Docker, Kubernetes)</li>
-<li>Secure Distributed Systems</li>
-<li>Applied Cryptography for Edge AI</li>
+<li>Edge Intelligence & Cloud–Edge orchestration</li>
+<li>Containerized infrastructure (Docker, Kubernetes)</li>
+<li>Resilient & secure distributed systems</li>
+<li>Applied cryptography for scalable deployments</li>
 </ul>
 
 ---
 
-<h2>Technical Expertise</h2>
+<h2>⚙️ Technical Expertise</h2>
 
 <b>Programming</b>
 
@@ -57,7 +57,7 @@ My research explores containerized infrastructures, distributed system resilienc
 <li>OpenStack</li>
 </ul>
 
-<b>AI / Data</b>
+<b>Artificial Intelligence</b>
 
 <ul>
 <li>Machine Learning</li>
@@ -81,9 +81,10 @@ My research explores containerized infrastructures, distributed system resilienc
 
 ---
 
-<h2>Selected Publications</h2>
+<h2>📑 Selected Publications</h2>
 
 <ul>
+
 <li>
 <b>Scalability Evaluation on Zero Downtime Deployment in Kubernetes Cluster</b><br>
 IEEE CALCON 2024
@@ -93,22 +94,23 @@ IEEE CALCON 2024
 <b>Optimizing Computational Platforms: Traditional vs Containerized Setups</b><br>
 IEEE ISACC 2025
 </li>
+
 </ul>
 
 ---
 
-<h2>Current Research</h2>
+<h2>🧪 Current Research</h2>
 
 <ul>
-<li>Hybrid resilience testing models for distributed infrastructure</li>
+<li>Hybrid resilience testing models for distributed infrastructures</li>
 <li>Secure hybrid cryptosystems for edge environments</li>
-<li>IoT–Edge benchmarking datasets</li>
-<li>Efficient orchestration pipelines</li>
+<li>IoT–Edge benchmarking datasets for reproducible research</li>
+<li>Efficient orchestration pipelines for AI workloads</li>
 </ul>
 
 ---
 
-<h2>Academic Collaboration</h2>
+<h2>🤝 Academic Collaboration</h2>
 
 <ul>
 <li>Edge AI deployments</li>
@@ -116,18 +118,6 @@ IEEE ISACC 2025
 <li>Container orchestration research</li>
 <li>Industry–academia experimentation</li>
 </ul>
-
----
-
-<h2 align="center">GitHub Analytics</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HaranathRakshit&show_icons=true&hide_border=true">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaranathRakshit&layout=compact&hide_border=true">
-</p>
 
 ---
 
