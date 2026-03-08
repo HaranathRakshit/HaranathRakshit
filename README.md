@@ -1,96 +1,144 @@
-<!-- Animated Intro -->
-<h1 align="center">
-  Hi 👋, I'm Haranath Rakshit
-</h1>
+<h1 align="center">Haranath Rakshit</h1>
 
 <p align="center">
-  <em>PhD Scholar (Computer Science) · UGC-NET (SRF) · Edge Computing & Secure Edge AI Systems</em>
+PhD Research Scholar — Computer Science <br>
+UGC-NET (SRF)
 </p>
 
 <p align="center">
-  <a href="https://www.haranathrakshit.com">🌐 Portfolio</a> •
-  <a href="https://orcid.org/0009-0008-1571-4440">ORCID</a> •
-  <a href="https://www.linkedin.com/in/haranath-rakshit">LinkedIn</a>
+Edge Intelligence · Secure Edge AI · Containerized Infrastructure
 </p>
 
----
-
-## 🔬 Research Vision
-
-I work at the intersection of:
-
-- Edge Intelligence  
-- Cloud–Edge orchestration  
-- Containerized infrastructure  
-- Resilient & secure distributed systems  
-- Applied cryptography for scalable deployments  
-
-My goal is building **efficient, trustworthy and production-ready AI systems**.
-
----
-
-## ⚙️ Technical Stack
-
-### Languages
-`C` `C++` `Java` `Python`
-
-### Systems & Cloud
-`Linux` `Docker` `Kubernetes` `OpenStack`
-
-### AI / Data
-`Machine Learning` `GenAI` `Data Mining`
-
-### Hardware / IoT
-`ESP32` `Raspberry Pi`
-
-### Research Tools
-`LaTeX` `MATLAB`
-
----
-
-## 📑 Selected Publications
-
-- **Scalability Evaluation on Zero Downtime Deployment in Kubernetes Cluster** — IEEE CALCON 2024  
-- **Optimizing Computational Platforms: Traditional vs Containerized Setups** — IEEE ISACC 2025
-
----
-
-## 🧪 Ongoing Work
-
-- Hybrid Resilience Testing Models  
-- Secure hybrid cryptosystems  
-- IoT-Edge benchmarking datasets  
-- Efficient orchestration pipelines
-
----
-
-## 📈 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaranathRakshit&show_icons=true" />
+<a href="mailto:haranathrakshit@gmail.com">Email</a> |
+<a href="https://www.haranathrakshit.com">Portfolio</a> |
+<a href="https://orcid.org/0009-0008-1571-4440">ORCID</a> |
+<a href="https://www.linkedin.com/in/haranath-rakshit">LinkedIn</a>
 </p>
 
 ---
 
-## 👀 Visitors
+<h2>Research Vision</h2>
+
+<p>
+I focus on building <b>efficient, scalable, and secure AI systems</b> operating at the edge–cloud continuum.  
+My research explores containerized infrastructures, distributed system resilience, and secure AI deployment frameworks for real-world environments.
+</p>
+
+<b>Research Interests</b>
+
+<ul>
+<li>Edge Intelligence</li>
+<li>Cloud–Edge Orchestration</li>
+<li>Containerized Infrastructure (Docker, Kubernetes)</li>
+<li>Secure Distributed Systems</li>
+<li>Applied Cryptography for Edge AI</li>
+</ul>
+
+---
+
+<h2>Technical Expertise</h2>
+
+<b>Programming</b>
+
+<ul>
+<li>C</li>
+<li>C++</li>
+<li>Java</li>
+<li>Python</li>
+</ul>
+
+<b>Systems & Cloud</b>
+
+<ul>
+<li>Linux</li>
+<li>Docker</li>
+<li>Kubernetes</li>
+<li>OpenStack</li>
+</ul>
+
+<b>AI / Data</b>
+
+<ul>
+<li>Machine Learning</li>
+<li>Generative AI</li>
+<li>Data Mining</li>
+</ul>
+
+<b>IoT / Embedded Systems</b>
+
+<ul>
+<li>ESP32</li>
+<li>Raspberry Pi</li>
+</ul>
+
+<b>Research Tools</b>
+
+<ul>
+<li>LaTeX</li>
+<li>MATLAB</li>
+</ul>
+
+---
+
+<h2>Selected Publications</h2>
+
+<ul>
+<li>
+<b>Scalability Evaluation on Zero Downtime Deployment in Kubernetes Cluster</b><br>
+IEEE CALCON 2024
+</li>
+
+<li>
+<b>Optimizing Computational Platforms: Traditional vs Containerized Setups</b><br>
+IEEE ISACC 2025
+</li>
+</ul>
+
+---
+
+<h2>Current Research</h2>
+
+<ul>
+<li>Hybrid resilience testing models for distributed infrastructure</li>
+<li>Secure hybrid cryptosystems for edge environments</li>
+<li>IoT–Edge benchmarking datasets</li>
+<li>Efficient orchestration pipelines</li>
+</ul>
+
+---
+
+<h2>Academic Collaboration</h2>
+
+<ul>
+<li>Edge AI deployments</li>
+<li>Secure distributed computing</li>
+<li>Container orchestration research</li>
+<li>Industry–academia experimentation</li>
+</ul>
+
+---
+
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HaranathRakshit" />
+<img src="https://github-readme-stats.vercel.app/api?username=HaranathRakshit&show_icons=true&hide_border=true">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaranathRakshit&layout=compact&hide_border=true">
 </p>
 
 ---
 
-## 🤝 Collaboration
+<h2 align="center">Profile Views</h2>
 
-I’m open to academic collaborations in:
-
-- Edge AI deployments  
-- Secure distributed computing  
-- Container orchestration research  
-- Industry-linked experimentation
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HaranathRakshit">
+</p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting — feel free to explore my repositories.
+⭐ Research-driven engineering for scalable and trustworthy computing systems
 </p>
