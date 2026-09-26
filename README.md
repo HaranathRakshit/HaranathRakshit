@@ -1,12 +1,11 @@
 <h1 align="center">Haranath Rakshit</h1>
 
 <p align="center">
-PhD Research Scholar — Computer Science <br>
-UGC-NET (SRF)
+Senior Research Fellow · PhD Research Scholar — Computer Science
 </p>
 
 <p align="center">
-Edge Intelligence · Secure Edge AI · Containerized Infrastructure
+Edge Computing · Edge AI Systems · Secure & Scalable Distributed Systems
 </p>
 
 <p align="center">
@@ -21,18 +20,28 @@ Edge Intelligence · Secure Edge AI · Containerized Infrastructure
 <h2>🔬 Research Vision</h2>
 
 <p>
-I develop efficient, trustworthy, production-ready AI systems at the intersection of edge intelligence,
-containerized infrastructure, and secure distributed systems. My work focuses on building scalable
-systems that enable reliable AI deployment across edge–cloud environments.
+I am a Full-time Research Scholar in the Department of Computer and System Sciences
+at Visva-Bharati University. My research focuses on Edge Computing and Edge AI Systems
+for secure and scalable distributed Edge–IoT environments.
+</p>
+
+<p>
+I am particularly interested in <b>“Silicon-to-Server” architectures</b> that take AI
+from resource-constrained hardware and edge devices to efficient, edge-native deployment.
+My work lies at the intersection of AI, distributed computing, IoT, edge systems, and security.
 </p>
 
 <b>Focus Areas</b>
 
 <ul>
-<li>Edge Intelligence & Cloud–Edge orchestration</li>
-<li>Containerized infrastructure (Docker, Kubernetes)</li>
-<li>Resilient & secure distributed systems</li>
-<li>Applied cryptography for scalable deployments</li>
+<li>Edge Computing</li>
+<li>Edge AI Systems</li>
+<li>Distributed Systems</li>
+<li>Internet of Things (IoT)</li>
+<li>Edge Deployment</li>
+<li>Edge Orchestration</li>
+<li>Edge Cryptography</li>
+<li>Cybersecurity</li>
 </ul>
 
 ---
@@ -42,32 +51,29 @@ systems that enable reliable AI deployment across edge–cloud environments.
 <b>Programming</b>
 
 <ul>
-<li>C</li>
-<li>C++</li>
-<li>Java</li>
 <li>Python</li>
 </ul>
 
 <b>Systems & Cloud</b>
 
 <ul>
-<li>Linux</li>
 <li>Docker</li>
 <li>Kubernetes</li>
-<li>OpenStack</li>
+<li>Cloud Computing</li>
+<li>Computer Networking</li>
 </ul>
 
 <b>Artificial Intelligence</b>
 
 <ul>
+<li>Artificial Intelligence (AI)</li>
 <li>Machine Learning</li>
-<li>Generative AI</li>
-<li>Data Mining</li>
 </ul>
 
 <b>IoT / Embedded Systems</b>
 
 <ul>
+<li>Internet of Things (IoT)</li>
 <li>ESP32</li>
 <li>Raspberry Pi</li>
 </ul>
@@ -76,7 +82,27 @@ systems that enable reliable AI deployment across edge–cloud environments.
 
 <ul>
 <li>LaTeX</li>
-<li>MATLAB</li>
+<li>Git / GitHub</li>
+</ul>
+
+---
+
+<h2>📚 Research Direction</h2>
+
+<p>
+My current research explores practical and scalable systems across:
+</p>
+
+<p align="center">
+<b>AI · Edge Computing · IoT · Distributed Systems · Security</b>
+</p>
+
+<ul>
+<li>Secure and scalable Edge AI deployment</li>
+<li>Edge-native orchestration and distributed infrastructure</li>
+<li>AI systems for resource-constrained environments</li>
+<li>Edge–IoT security and applied cryptography</li>
+<li>Reproducible experimental testbeds and benchmarking</li>
 </ul>
 
 ---
@@ -99,25 +125,46 @@ IEEE ISACC 2025
 
 ---
 
-<h2>🧪 Current Research</h2>
+<h2>🧪 Research & Experimental Platforms</h2>
 
 <ul>
-<li>Hybrid resilience testing models for distributed infrastructures</li>
-<li>Secure hybrid cryptosystems for edge environments</li>
-<li>IoT–Edge benchmarking datasets for reproducible research</li>
-<li>Efficient orchestration pipelines for AI workloads</li>
+<li><b>Edge Platforms:</b> ESP32, Raspberry Pi</li>
+<li><b>Containerization:</b> Docker</li>
+<li><b>Orchestration:</b> Kubernetes</li>
+<li><b>AI/ML:</b> Python-based experimentation</li>
+<li><b>Systems Research:</b> Edge–IoT testbeds and distributed deployment environments</li>
 </ul>
 
 ---
 
 <h2>🤝 Academic Collaboration</h2>
 
+<p>
+I am open to research collaborations, academic discussions, and real-world applications
+in the following areas:
+</p>
+
 <ul>
-<li>Edge AI deployments</li>
-<li>Secure distributed computing</li>
-<li>Container orchestration research</li>
-<li>Industry–academia experimentation</li>
+<li>Edge Computing and Edge AI Systems</li>
+<li>Secure Distributed Computing</li>
+<li>IoT and Edge–Cloud Platforms</li>
+<li>Edge Orchestration and Deployment</li>
+<li>AI Systems for Real-World Applications</li>
 </ul>
+
+---
+
+<h2 align="center">🌐 Explore My Work</h2>
+
+<p align="center">
+<a href="https://www.haranathrakshit.com">
+<b>www.haranathrakshit.com</b>
+</a>
+</p>
+
+<p align="center">
+⭐ Feel free to explore my repositories and research projects.
+</p>
 
 ---
 
@@ -125,10 +172,4 @@ IEEE ISACC 2025
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=HaranathRakshit">
-</p>
-
----
-
-<p align="center">
- ⭐ Thanks for visiting — feel free to explore my repositories.
 </p>
